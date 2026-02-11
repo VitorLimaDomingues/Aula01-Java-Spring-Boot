@@ -10,7 +10,7 @@ Language - Java
 
 springboot - 4.0.2
 
-Project Metadata (Informações como nome e etc...) (lembrar sempre de deixar udo em minusculo no Package name)
+Project Metadata (Informações como nome e etc...) (lembrar sempre de deixar tudo em minusculo no Package name)
 
 packging - Jar
 
